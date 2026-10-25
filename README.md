@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字机效果标题 -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+a+Backend+%26+AI+Developer;Building+Insurance+Industry+Solutions;Shipping+A-Share+Data+%26+Quant+Tools;Coding+by+day,+Gaming+by+night+🎮&font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=100" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B,+I'm+a+Backend+%26+AI+Developer;Building+Insurance+Industry+Solutions;Shipping+A-Share+Data+%26+Quant+Tools;Coding+by+day,+Gaming+by+night+%F0%9F%8E%AE&font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=100" />
 
 </div>
 
